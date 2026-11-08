@@ -189,3 +189,8 @@ nothing
 
 # 07th November 2026
 nothing, just lw comments
+
+
+# 08th November 2026
+1. SA's October links
+2. SA's November links

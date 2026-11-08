@@ -222,3 +222,6 @@ leetcode daily, and 7 qs on trees, and 7 on graphs
 
 # 2026/11/07 - Saturday
 leetcode daily, 2 trees 5 graphs from neetcode150
+
+# 2026/11/08 - Sunday
+leetcode daily, 9 backtracking questions from neetcode150
