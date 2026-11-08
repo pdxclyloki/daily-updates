@@ -219,3 +219,6 @@ leetcode daily, and 7 qs on trees, and 7 on graphs
 
 # 2026/11/06 - Friday
 4 qs on graphs, no leetcode
+
+# 2026/11/07 - Saturday
+leetcode daily, 2 trees 5 graphs from neetcode150

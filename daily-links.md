@@ -185,3 +185,7 @@ nope
 
 # 06th November 2026
 nothing
+
+
+# 07th November 2026
+nothing, just lw comments
