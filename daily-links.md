@@ -198,3 +198,7 @@ nothing, just lw comments
 
 # 09th November 2026
 nothing. too bad. 
+
+
+# 10th November 2026
+leetcode daily, and 10 dp questions from neetcode150
