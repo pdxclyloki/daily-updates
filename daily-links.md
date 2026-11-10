@@ -194,3 +194,7 @@ nothing, just lw comments
 # 08th November 2026
 1. SA's October links
 2. SA's November links
+
+
+# 09th November 2026
+nothing. too bad. 

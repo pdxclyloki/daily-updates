@@ -225,3 +225,6 @@ leetcode daily, 2 trees 5 graphs from neetcode150
 
 # 2026/11/08 - Sunday
 leetcode daily, 9 backtracking questions from neetcode150
+
+# 2026/11/09 - Monday
+nothing. too bad.
