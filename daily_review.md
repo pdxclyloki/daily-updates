@@ -230,4 +230,7 @@ leetcode daily, 9 backtracking questions from neetcode150
 nothing. too bad.
 
 # 2026/11/10 - Tuesday
-1. Zvi on Jensen's scandal. https://www.lesswrong.com/posts/CjmuZz8QgGyqxkCxr/nvidia-ceo-jensen-huang-had-an-affair-with-a-chinese-spy
+leetcode daily.
+
+# 2026/11/11 - Wednesday
+leetcode daily.

@@ -202,3 +202,9 @@ nothing. too bad.
 
 # 10th November 2026
 leetcode daily, and 10 dp questions from neetcode150
+
+
+# 11th November 2026
+1. I don't use AI by Alexei. https://www.lesswrong.com/posts/PEHsGHp2HLxgdCxxA/i-don-t-use-ai
+2. Ajeya on METR's assessment of Ant's reserach uplift. https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai
+3. Zvi on Jensen's scandal. https://www.lesswrong.com/posts/CjmuZz8QgGyqxkCxr/nvidia-ceo-jensen-huang-had-an-affair-with-a-chinese-spy
