@@ -234,3 +234,6 @@ leetcode daily.
 
 # 2026/11/11 - Wednesday
 leetcode daily.
+
+# 2026/11/15 - Sunday
+leetcode daily. the gap above is due to a trip to home and extreme busy-ness.

@@ -208,3 +208,17 @@ leetcode daily, and 10 dp questions from neetcode150
 1. I don't use AI by Alexei. https://www.lesswrong.com/posts/PEHsGHp2HLxgdCxxA/i-don-t-use-ai
 2. Ajeya on METR's assessment of Ant's reserach uplift. https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai
 3. Zvi on Jensen's scandal. https://www.lesswrong.com/posts/CjmuZz8QgGyqxkCxr/nvidia-ceo-jensen-huang-had-an-affair-with-a-chinese-spy
+
+
+# 15th November 2026
+1. And the proof is checked in Lean by Xena Project. https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/
+    - four possible issues with lean certificates
+        - lean's formal definition might not match the informal definition
+        - there could be a lean kernel bug exploit
+        - apparently, Kevin is still worried about AI code deleting all your files
+        - worry about bugs in dependencies
+2. Hidden Phenomena guys did their latest post on catalan's number. https://hidden-phenomena.com/articles/catalan
+    - number of triangulation of an n-gon == number of non intersecting chords on a circle with n equally spaced points on its circumference == number of paths from (0,0) to (n,n) below y = x line. 
+    - $C_n = \frac{1}{n+1} \binom{2n}{n}$
+3. In set theory, everything is set. https://www.lesswrong.com/posts/ohBquGStc2LyXFPi8/in-set-theory-everything-is-a-set
+4. Transfinite Procrastination. https://www.lesswrong.com/posts/MJDJyi8nSv9yoxFni/transfinite-procrastination
