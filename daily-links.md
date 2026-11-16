@@ -222,3 +222,21 @@ leetcode daily, and 10 dp questions from neetcode150
     - $C_n = \frac{1}{n+1} \binom{2n}{n}$
 3. In set theory, everything is set. https://www.lesswrong.com/posts/ohBquGStc2LyXFPi8/in-set-theory-everything-is-a-set
 4. Transfinite Procrastination. https://www.lesswrong.com/posts/MJDJyi8nSv9yoxFni/transfinite-procrastination
+
+
+# 16th November 2026
+1. How to be a lowercase-g good person. https://hazemhasan.substack.com/p/how-to-be-a-lowercase-g-good-person
+2. Dario Amodei's Contemptible Critics. https://benthams.substack.com/p/dario-amodeis-contemptible-critics
+3. AI skeptics should fasten their seatbelts. https://thelimitsofmylanguage.substack.com/p/ai-skeptics-should-wear-their-seatbelts
+4. GOAT Singer replies to some recent EA criticism. https://boldreasoningwithpetersinger.substack.com/p/the-critics-of-the-effective-altruism
+5. Shut up about slave morality. https://benthams.substack.com/p/shut-up-about-slave-morality
+6. Noah Smith's Bumbition. https://www.noahpinion.blog/p/bumbition
+7. Ajeya Cotra on loving her people. https://acotra.substack.com/p/i-love-my-people
+8. BB's Advice on living a good life. https://benthams.substack.com/p/concrete-advice-for-living-better
+9. Tobias Leenaert on the question of having children. https://tobiasleenaert.substack.com/p/to-breed-or-not-to-breed
+    - I think I'd love to play with a sweet daughter of mine. 
+    - I also think that I'd love my wife one OOM more condition on us having a kid (daughter, not son).
+    - I'm also frightened of the possibility of anything remotely wrong happening to my kids.
+10. BB on the nature article on AI consciousness. https://benthams.substack.com/p/nature-is-wrong-about-ai-consciousness
+    - Very disappointing from Anil Seth, et al.
+11. BB again on NYT's bad takes on AI welfare. https://benthams.substack.com/p/the-new-york-times-bad-ai-welfare
