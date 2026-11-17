@@ -240,3 +240,12 @@ leetcode daily, and 10 dp questions from neetcode150
 10. BB on the nature article on AI consciousness. https://benthams.substack.com/p/nature-is-wrong-about-ai-consciousness
     - Very disappointing from Anil Seth, et al.
 11. BB again on NYT's bad takes on AI welfare. https://benthams.substack.com/p/the-new-york-times-bad-ai-welfare
+
+
+# 17th November 2026
+1. Fable illustrates its dreams. https://x.com/anabology/status/2120010995309457643
+2. Fable writes Beethoven style piano sonata. https://x.com/imjustnewatai/status/2119919644836347926
+3. Fable designs a crazy game. https://tennis.sixfingerpunch.com/
+4. Claude Monet. https://x.com/slimer48484/status/2122269282084266040
+5. Fable 5.2 is the new bazooka. https://www.lesswrong.com/posts/ZQccv9GPAzHGbWcwE/fable-5-2-is-the-new-bazooka
+6. Fable 5.2 designs portals. This is beyond impressive. https://portals-endless-worlds.netlify.app/

@@ -240,3 +240,6 @@ leetcode daily. the gap above is due to a trip to home and extreme busy-ness.
 
 # 2026/11/16 - Monday
 leetcode daily.
+
+# 2026/11/17 - Tuesday
+leetcode daily.
