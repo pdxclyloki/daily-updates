@@ -249,3 +249,7 @@ leetcode daily, and 10 dp questions from neetcode150
 4. Claude Monet. https://x.com/slimer48484/status/2122269282084266040
 5. Fable 5.2 is the new bazooka. https://www.lesswrong.com/posts/ZQccv9GPAzHGbWcwE/fable-5-2-is-the-new-bazooka
 6. Fable 5.2 designs portals. This is beyond impressive. https://portals-endless-worlds.netlify.app/
+
+
+# 18th November 2026
+nothing
