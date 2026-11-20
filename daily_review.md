@@ -246,3 +246,6 @@ leetcode daily.
 
 # 2026/11/18 - Wednesday
 leetcode daily.
+
+# 2026/11/19 - Thursday
+nothing

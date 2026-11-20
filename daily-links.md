@@ -253,3 +253,7 @@ leetcode daily, and 10 dp questions from neetcode150
 
 # 18th November 2026
 nothing
+
+
+# 19th November 2026
+nothing
