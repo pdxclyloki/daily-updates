@@ -252,3 +252,6 @@ nothing
 
 # 2026/11/20 - Friday
 leetcode daily
+
+# 2026/11/21 - Saturday 
+leetcode daily
